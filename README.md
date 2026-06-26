@@ -474,7 +474,3 @@ See [example.py](example.py) for a complete training loop.
 - Smith, "Color Gamut Transform Pairs" (SIGGRAPH 1978) — HSV color space
 - Ultralytics YOLO (AGPL-3.0) — backbone architecture inspiration
 - Li et al., "Generalized Focal Loss" (NeurIPS 2020) — DFL module design
-
-## License / 许可证
-
-MIT License
