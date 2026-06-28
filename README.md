@@ -1,4 +1,4 @@
-# Colorful-yolo &middot; 彩色YOLO
+# Colorful-yolo &middot; 炫彩YOLO
 
 > Complex-valued YOLO26 with HSV Polar Decomposition &middot; 基于HSV极坐标分解的复数卷积YOLO26
 
@@ -229,7 +229,7 @@ Complex-valued training can exhibit higher variance across runs due to the dual 
 
 ### 1. 概述
 
-**Colorful-yolo（彩色YOLO）** 将 YOLO26 骨干网络扩展到 **复数域**。大多数视觉模型通过通道混合隐式丢失颜色信息，而 Colorful-yolo 将每张输入图像显式地分解为两个正交表示：
+**Colorful-yolo（炫彩YOLO）** 将 YOLO26 骨干网络扩展到 **复数域**。大多数视觉模型通过通道混合隐式丢失颜色信息，而 Colorful-yolo 将每张输入图像显式地分解为两个正交表示：
 
 | 组件 | 内容 | 作用 |
 |------|------|------|
